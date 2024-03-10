@@ -46,21 +46,21 @@ nav ul li a:hover{
 }
 .detel h1{
     font-size: 50px;
-    color: #212121;
+    color: #2d204e;
     margin-bottom: 20px;
 }
 
 span{
-    color: orange
+    color: rgb(36, 75, 153)
 }
 
 .detel p{
-    colo: #212121;
+    colo: #3217e5;
     line-height: 22px;
 }
 
 .detel a{
-    background-color: #212121;
+    background-color: #9fd419;
     padding: 10px 18px;
     text-decoration: none;
     font-weight: bold;
